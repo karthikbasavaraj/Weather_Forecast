@@ -1,0 +1,1 @@
+../../../../AerisWeather/AerisWeatherSDK/AerisGoogleMap.framework/Versions/A/Headers/AWFGMAnnotation.h
